@@ -1,2 +1,4 @@
-# web-340
-WEB 340 Node.js course rep.
+# WEB 340 Node.js
+## Contributors
+* Richard Krasso
+* Janis Gonzalez
