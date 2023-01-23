@@ -7,7 +7,7 @@
 ;===========================================
 */
 
-const teamManager = require("./team-manager");
+const teamManager = require("./team-manager.js");
 
 function displayTeams() {
     let arrayOfTeams = teamManager.findTeams();

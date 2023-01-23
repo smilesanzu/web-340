@@ -6,7 +6,7 @@
 ; Description: team functions for assign 3.2
 ;===========================================
 */
-const Team = require("./team");
+const Team = require("./team.js");
 let moment = require('moment');
 
 
